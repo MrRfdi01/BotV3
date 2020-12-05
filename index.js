@@ -37,9 +37,9 @@ function restartAwal(tobz){
 
 const start = async (tobz = new Client()) => {
         console.log('------------------------------------------------')
-        console.log(color(figlet.textSync('ELAINA BOT', { horizontalLayout: 'full' })))
+        console.log(color(figlet.textSync('BOT✘RFDI', { horizontalLayout: 'full' })))
         console.log('------------------------------------------------')
-        console.log('[DEV] TOBZ')
+        console.log('[DEV] RFDI')
         console.log('[SERVER] Server Started!')
         tobz.onAnyMessage((fn) => messageLog(fn.fromMe, fn.type))
         // Force it to keep the current session
