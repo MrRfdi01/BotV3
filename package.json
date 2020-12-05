@@ -57,7 +57,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TobyG74/ElainaBOT",
+    "url": "git+https://github.com/MrRfdi01/BotV3",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.9.0",
     "eslint-config-standard": "^14.1.1",
