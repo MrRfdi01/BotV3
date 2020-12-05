@@ -1,13 +1,13 @@
 {
-  "name": "ELAINABOT",
-  "version": "10.0.0",
-  "description": "THX FOR MHANKBARBAR AS MY FRIEND, REEDIT BY TOBZ",
+  "name": "BOT✘RFDI",
+  "version": "3.0.0",
+  "description": "THX FOR USE THIS BOT",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "TOBZ",
+  "author": "RFDI",
   "license": "Apache-2.0",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.15",
@@ -70,7 +70,7 @@
     "Whatsapp-Bot"
   ],
   "bugs": {
-    "url": "https://github.com/TobyG74/issues"
+    "url": "https://github.com/MrRfdi01/issues"
   },
-  "homepage": "https://github.com/TobyG74/"
+  "homepage": "https://github.com/MrRfdi01/"
 }
